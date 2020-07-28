@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi! I'm Guthrie
+
+#### _Ideation - Analytical - Individualization - Learner - Input_
+
+I'm currently an Associate Software Engineer at Southwest Airlines, working on the UI Foundation for Southwest.com
+
+This profile is a hodge-podge of random projects I've decided to archive over the years.
 
 <!--
 **thegoobs/thegoobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
